@@ -9,7 +9,7 @@ This project is focused on achieving the following key objectives:
 1. [**Customer Performance Report:**](https://github.com/Pratiky08/Excel-Project/blob/main/Customer%20Performance%20Report.pdf)
    - Create a detailed analysis of customer performance to identify sales pattern and track Key Performance Indicators(KPIs).
 
-2. **Market Performance Report:**
+2. [**Market Performance Report:**](https://github.com/Pratiky08/Excel-Project/blob/main/Customer%20Performance%20Report.pdf)
    - Conduct a comprehensive comparison between market performance and sales target, to identify potential business expansion opportunities in promicing countries.
   
 ### Finance Report:
