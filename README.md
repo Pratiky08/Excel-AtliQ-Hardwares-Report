@@ -14,7 +14,7 @@ This project is focused on achieving the following key objectives:
   
 ### Finance Report:
 
-1. **Profit and Loss (P&L) Reports by [Fiscal Year](https://github.com/Pratiky08/Excel-Project/blob/main/P%26L%20Statement%20By%20Fiscal%20Year.pdf) and Months:**
+1. **Profit and Loss (P&L) Reports by [Fiscal Year](https://github.com/Pratiky08/Excel-Project/blob/main/P%26L%20Statement%20By%20Fiscal%20Year.pdf) and [Months](https://github.com/Pratiky08/Excel-Project/blob/main/P%26L%20Statement%20By%20Month.pdf):**
    - Generate Profit and Loss reports categorized by fiscal year and months to evaluate financial performance over different time frames.
 
 2. **Profit and Loss (P&L) Reports by Markets:**
